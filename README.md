@@ -65,9 +65,3 @@ Then start the application:
 ---
 
 
-
-
-
-## 📄 License
-
-This project was developed as part of the **CodeAlpha Artificial Intelligence Internship**.
