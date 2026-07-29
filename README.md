@@ -33,8 +33,7 @@ The model was trained on a custom selection of piano MIDI files. You can downloa
 
 ---
 ##  Demo
-<img width="686" height="853" alt="Screenshot 2026-07-30 021621" src="https://github.com/user-attachments/assets/7389b3aa-20eb-429b-96ee-13bd3f7e42f8" />
-<img width="685" height="851" alt="Screenshot 2026-07-30 021649" src="https://github.com/user-attachments/assets/987f66da-aaaf-4252-a9fa-0c6f868ec206" />
+<img width="686" height="853" alt="Screenshot 2026-07-30 021621" src="https://github.com/user-attachments/assets/7389b3aa-20eb-429b-96ee-13bd3f7e42f8" /> <img width="685" height="851" alt="Screenshot 2026-07-30 021649" src="https://github.com/user-attachments/assets/987f66da-aaaf-4252-a9fa-0c6f868ec206" />
 
 
 ---
